@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.nicepng.com/png/detail/412-4126527_say-hello-to-gitrob-gopher-github.png"/></p>
+<p align="center"><img src="https://aws1.discourse-cdn.com/business7/uploads/pantheon/original/2X/f/f9a0b8bc0e4c5d3e4e8a79956f8994cb95246507.png"/></p>
 
 ### Hi there 👋
 
