@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></p>
+<p align="center"><img src="https://imgs.developpaper.com/imgs/489311761-5a44f5b1f3f66_articlex.jpg"/></p>
 
 ### Hi there 👋
 
