@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.clipartmax.com/png/middle/28-283085_welcome-to-mrs-welcome-banner-clipart-transparent.png"/></p>
+<p align="center"><img src="https://github.com/Ebulo/Ebulo/blob/2df16b217a4b95cac4e6bf0cdb173a0928892269/clipart3888054.png"/></p>
 
 ### Hi there 👋
 
