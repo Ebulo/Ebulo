@@ -31,7 +31,7 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
 ---
 
-<details close>
+<!-- <details close>
 <summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
   
  <br>
@@ -81,6 +81,6 @@ And at last some stats to impress my next 😍😉.
 
 
 
-</details>
+</details> -->
 
 
